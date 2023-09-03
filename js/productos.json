@@ -1,0 +1,401 @@
+[
+    {
+        "id": "ruanas-01",
+        "titulo": "ruanas 01",
+        "imagen": "../img/ruanas/1.png",
+        "categoria": {
+            "nombre": "ruanas",
+            "id": "ruanas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "ruanas-02",
+        "titulo": "ruanas 02",
+        "imagen": "../img/ruanas/2.png",
+        "categoria": {
+            "nombre": "ruanas",
+            "id": "ruanas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "ruanas-03",
+        "titulo": "ruanas 03",
+        "imagen": "../img/ruanas/3.png",
+        "categoria": {
+            "nombre": "ruanas",
+            "id": "ruanas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "ruanas-04",
+        "titulo": "ruanas 04",
+        "imagen": "../img/ruanas/4.png",
+        "categoria": {
+            "nombre": "ruanas",
+            "id": "ruanas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "ruanas-05",
+        "titulo": "ruanas 05",
+        "imagen": "../img/ruanas/5.png",
+        "categoria": {
+            "nombre": "ruanas",
+            "id": "ruanas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "ruanas-06",
+        "titulo": "ruanas 06",
+        "imagen": "../img/ruanas/6.png",
+        "categoria": {
+            "nombre": "ruanas",
+            "id": "ruanas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "ruanas-07",
+        "titulo": "ruanas 07",
+        "imagen": "../img/ruanas/7.png",
+        "categoria": {
+            "nombre": "ruanas",
+            "id": "ruanas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "ruanas-08",
+        "titulo": "ruanas 08",
+        "imagen": "../img/ruanas/8.png",
+        "categoria": {
+            "nombre": "ruanas",
+            "id": "ruanas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "ruanas-09",
+        "titulo": "ruanas 09",
+        "imagen": "../img/ruanas/9.png",
+        "categoria": {
+            "nombre": "ruanas",
+            "id": "ruanas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "ruanas-10",
+        "titulo": "ruanas 10",
+        "imagen": "../img/ruanas/10.png",
+        "categoria": {
+            "nombre": "ruanas",
+            "id": "ruanas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "ruanas-11",
+        "titulo": "ruanas 11",
+        "imagen": "../img/ruanas/11.png",
+        "categoria": {
+            "nombre": "ruanas",
+            "id": "ruanas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "ruanas-12",
+        "titulo": "ruanas 11",
+        "imagen": "../img/ruanas/12.png",
+        "categoria": {
+            "nombre": "ruanas",
+            "id": "ruanas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "billeteras-01",
+        "titulo": "billeteras 01",
+        "imagen": "../img/billeteras/1.png",
+        "categoria": {
+            "nombre": "billeteras",
+            "id": "billeteras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "billeteras-02",
+        "titulo": "billeteras 02",
+        "imagen": "../img/billeteras/2.png",
+        "categoria": {
+            "nombre": "billeteras",
+            "id": "billeteras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "billeteras-03",
+        "titulo": "billeteras 03",
+        "imagen": "../img/billeteras/3.png",
+        "categoria": {
+            "nombre": "billeteras",
+            "id": "billeteras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "billeteras-04",
+        "titulo": "billeteras 04",
+        "imagen": "../img/billeteras/4.png",
+        "categoria": {
+            "nombre": "billeteras",
+            "id": "billeteras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "billeteras-05",
+        "titulo": "billeteras 05",
+        "imagen": "../img/billeteras/5.png",
+        "categoria": {
+            "nombre": "billeteras",
+            "id": "billeteras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "billeteras-06",
+        "titulo": "billeteras 06",
+        "imagen": "../img/billeteras/6.png",
+        "categoria": {
+            "nombre": "billeteras",
+            "id": "billeteras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "billeteras-07",
+        "titulo": "billeteras 07",
+        "imagen": "../img/billeteras/7.png",
+        "categoria": {
+            "nombre": "billeteras",
+            "id": "billeteras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "billeteras-08",
+        "titulo": "billeteras 08",
+        "imagen": "../img/billeteras/8.png",
+        "categoria": {
+            "nombre": "billeteras",
+            "id": "billeteras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "billeteras-09",
+        "titulo": "billeteras 09",
+        "imagen": "../img/billeteras/9.png",
+        "categoria": {
+            "nombre": "billeteras",
+            "id": "billeteras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "billeteras-10",
+        "titulo": "billeteras 10",
+        "imagen": "../img/billeteras/10.png",
+        "categoria": {
+            "nombre": "billeteras",
+            "id": "billeteras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "billeteras-11",
+        "titulo": "billeteras 11",
+        "imagen": "../img/billeteras/11.png",
+        "categoria": {
+            "nombre": "billeteras",
+            "id": "billeteras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "billeteras-12",
+        "titulo": "billeteras 12",
+        "imagen": "../img/billeteras/12.png",
+        "categoria": {
+            "nombre": "billeteras",
+            "id": "billeteras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "billeteras-13",
+        "titulo": "billeteras 13",
+        "imagen": "../img/billeteras/13.png",
+        "categoria": {
+            "nombre": "billeteras",
+            "id": "billeteras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "billeteras-14",
+        "titulo": "billeteras 14",
+        "imagen": "../img/billeteras/14.png",
+        "categoria": {
+            "nombre": "billeteras",
+            "id": "billeteras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "billeteras-15",
+        "titulo": "billeteras 15",
+        "imagen": "../img/billeteras/15.png",
+        "categoria": {
+            "nombre": "billeteras",
+            "id": "billeteras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "billeteras-16",
+        "titulo": "billeteras 16",
+        "imagen": "../img/billeteras/16.png",
+        "categoria": {
+            "nombre": "billeteras",
+            "id": "billeteras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "billeteras-17",
+        "titulo": "billeteras 17",
+        "imagen": "../img/billeteras/17.png",
+        "categoria": {
+            "nombre": "billeteras",
+            "id": "billeteras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "billeteras-18",
+        "titulo": "billeteras 18",
+        "imagen": "../img/billeteras/18.png",
+        "categoria": {
+            "nombre": "billeteras",
+            "id": "billeteras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "billeteras-19",
+        "titulo": "billeteras 19",
+        "imagen": "../img/billeteras/19.png",
+        "categoria": {
+            "nombre": "billeteras",
+            "id": "billeteras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "billeteras-20",
+        "titulo": "billeteras 20",
+        "imagen": "../img/billeteras/20.png",
+        "categoria": {
+            "nombre": "billeteras",
+            "id": "billeteras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "billeteras-21",
+        "titulo": "billeteras 21",
+        "imagen": "../img/billeteras/21.png",
+        "categoria": {
+            "nombre": "billeteras",
+            "id": "billeteras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "turbantes-01",
+        "titulo": "turbantes 01",
+        "imagen": "../img/turbantes/1.png",
+        "categoria": {
+            "nombre": "turbantes",
+            "id": "turbantes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "turbantes-02",
+        "titulo": "turbantes 02",
+        "imagen": "../img/turbantes/2.png",
+        "categoria": {
+            "nombre": "turbantes",
+            "id": "turbantes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "turbantes-03",
+        "titulo": "turbantes 03",
+        "imagen": "../img/turbantes/3.png",
+        "categoria": {
+            "nombre": "turbantes",
+            "id": "turbantes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "turbantes-04",
+        "titulo": "turbantes 04",
+        "imagen": "../img/turbantes/4.png",
+        "categoria": {
+            "nombre": "turbantes",
+            "id": "turbantes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "turbantes-05",
+        "titulo": "turbantes 05",
+        "imagen": "../img/turbantes/5.png",
+        "categoria": {
+            "nombre": "turbantes",
+            "id": "turbantes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "turbantes-06",
+        "titulo": "turbantes 06",
+        "imagen": "../img/turbantes/6.png",
+        "categoria": {
+            "nombre": "turbantes",
+            "id": "turbantes"
+        },
+        "precio": 1000
+    },{
+        "id": "turbantes-07",
+        "titulo": "turbantes 07",
+        "imagen": "../img/turbantes/7.png",
+        "categoria": {
+            "nombre": "turbantes",
+            "id": "turbantes"
+        },
+        "precio": 1000
+    }
+]
